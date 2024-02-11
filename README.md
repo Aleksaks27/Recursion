@@ -1,2 +1,2 @@
 # Recursion
-Practice problems involving recursion
+In these exercises I aimed to use recursive techniques to find a solution to the Fibonacci problem and then produce a merge sort algorithm. In the first case, both non-recursive and recursive functions were written.
